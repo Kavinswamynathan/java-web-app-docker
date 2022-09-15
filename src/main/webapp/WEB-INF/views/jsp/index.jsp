@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>Welcome To Kavin's IT Hub, Coimbatore.</h2>
+			<h3>Contact @ +91-8608320602 </h3>
 		</div>	
 	</div>
 
